@@ -1,0 +1,60 @@
+@media (max-width: 768px) {.pad{
+    height: 800px;
+}
+.upper{
+    display: flex;
+}
+.next{
+    margin-top: 70px;
+    text-align: start;
+    margin-left: 250px;
+    margin-bottom: 20px;
+}
+.para{
+    margin-top: 105px;
+    margin-left: 30px;
+    text-align: justify;
+  text-justify: inter-word;
+  width: 780px;
+}
+.tabs{
+    height: 40px;
+    background-color: #414f6b;
+}
+/* .buttons, a{
+    color: white;
+} */
+.backgr{
+    background: url("E:\HTML\singlepage\src\assets\hero.jpg");
+    height: 100vh;
+}}
+@media (min-width: 768px) {.pad{
+    height: 800px;
+}
+.upper{
+    display: flex;
+}
+.next{
+    margin-top: 70px;
+    text-align: start;
+    margin-left: 250px;
+    margin-bottom: 20px;
+}
+.para{
+    margin-top: 105px;
+    margin-left: 30px;
+    text-align: justify;
+  text-justify: inter-word;
+  width: 780px;
+}
+.tabs{
+    height: 40px;
+    background-color: #414f6b;
+}
+/* .buttons, a{
+    color: white;
+} */
+.backgr{
+    background: url("E:\HTML\singlepage\src\assets\hero.jpg");
+    height: 100vh;
+}}

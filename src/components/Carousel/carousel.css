@@ -1,0 +1,41 @@
+@media (max-width: 768px) {.blue{
+    background: rgba(65, 79, 107, .85);
+    height: 200px;
+}
+.abc{
+    height: 50px;
+    width: 1200px;
+    margin: auto;
+    margin-top: 260px;
+}
+.def{
+      display: flex;
+}
+.ghi{
+    margin: 5px;
+    width: 600px;
+}
+.carousel-indicators{
+    top: 150px;
+}
+}
+@media (min-width: 768px) {.blue{
+    background: rgba(65, 79, 107, .85);
+    height: 200px;
+}
+.abc{
+    height: 50px;
+    width: 1200px;
+    margin: auto;
+    margin-top: 260px;
+}
+.def{
+      display: flex;
+}
+.ghi{
+    margin: 5px;
+    width: 600px;
+}
+.carousel-indicators{
+    top: 150px;
+}}

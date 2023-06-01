@@ -1,0 +1,60 @@
+@media (max-width: 768px) {.back{
+    background: url("E:\HTML\singlepage\src\assets\hero.jpg");
+    height: 100vh;
+    background-position-y:top;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.back4{
+ background-image: url("E:\HTML\singlepage\src\assets\mountains2.jpg");
+ height: 95vh;
+  background-position: center;  
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+.releventThings{
+  text-align: start;
+  margin-left: 200px;
+
+}
+.releventThings > img{
+  margin-top: 50px;
+}
+.p{
+    margin-left: 240px;
+    width:1010px;
+    text-align: justify;
+  text-justify: inter-word;
+}
+}
+@media (min-width:768px) {.back{
+  background: url("E:\HTML\singlepage\src\assets\hero.jpg");
+  height: 100vh;
+  background-position-y:top;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.back4{
+background-image: url("E:\HTML\singlepage\src\assets\mountains2.jpg");
+height: 95vh;
+background-position: center;  
+background-repeat: no-repeat;
+background-size: cover;
+position: relative;
+}
+.releventThings{
+text-align: start;
+margin-left: 200px;
+
+}
+.releventThings > img{
+margin-top: 50px;
+}
+.p{
+  margin-left: 240px;
+  width:1010px;
+  text-align: justify;
+text-justify: inter-word;
+}
+}

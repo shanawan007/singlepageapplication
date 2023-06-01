@@ -1,0 +1,24 @@
+@media (max-width: 768px) {.root-footer{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 220px;
+    background-color: #414f6b;
+
+}
+.footer{
+    margin-top:10px;
+    color:#b0b4be;
+    font-family: 'Lato', sans-serif;
+}}
+@media (min-width: 768px) {.root-footer{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 220px;
+    background-color: #414f6b;
+
+}
+.footer{
+    margin-top:10px;
+    color:#b0b4be;
+    font-family: 'Lato', sans-serif;
+}}
